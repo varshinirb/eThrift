@@ -5,5 +5,5 @@ python3 -m venv env(can be any name)
 source env/bin/activate
 
 
-# To runserver
-python manage.py runserver
+# To runserver and to close server
+python manage.py runserver and ctrl+c to close the server
